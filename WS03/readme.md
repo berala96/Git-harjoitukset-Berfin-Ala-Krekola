@@ -1,0 +1,1 @@
+Tässä on readme pohja kyseiselle työpajalla ja mitä siinä tehdään
